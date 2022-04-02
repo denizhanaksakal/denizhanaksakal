@@ -9,7 +9,5 @@
 - ⚡ Fun fact: Even though I usually take part in backend development, I've been shifting to frontend development lately
 
 <p align="center">
-  <a href="https://github.com/denizhanaksakal/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=denizhanaksakal&count_private=true&show_icons=true&theme=vue-dark" />
-  </a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=denizhanaksakal&show_icons=true&theme=vue-dark" />
 </p>
